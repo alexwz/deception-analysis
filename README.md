@@ -2,7 +2,7 @@
 Resources for the paper: "Truth or lie: exploring the language of deception"
 
 This repo contains the following files:
-1. analysis_results_all.xlsx - main data file with the results of the study.
+1. **[https://github.com/alexwz/deception-analysis/blob/main/analysis_results_all.xlsx](analysis_results_all.xlsx)** - main data file with the results of the study.
   The columns are as follows:
   - p1_k2: truth 1, lie 2
   - pis1_tran2 describes whether the row is from written (1) or transcribed (2) part of the data set
@@ -14,4 +14,4 @@ This repo contains the following files:
   - columns starting from prep up to tokens contain frequencies of morphological/part-of-speech classes
   - tokens contains the number of tokens
 
-2. deception-models.ipynb - jupyter notebook with source code for the machine learning experiment
+2. **[https://github.com/alexwz/deception-analysis/blob/main/deception_models.ipynb](deception-models.ipynb)** - jupyter notebook with source code for the machine learning experiment
