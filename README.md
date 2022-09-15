@@ -16,3 +16,5 @@ This repo contains the following files:
   - remaining columns (located between prep and tokens) contain frequencies of morphological and part-of-speech (grammatical) classes, see [here](https://www.sketchengine.eu/polish-nkjp-part-of-speech-tagset/) for more details
 
 2. **[deception-models.ipynb](https://github.com/alexwz/deception-analysis/blob/main/deception_models.ipynb)** - jupyter notebook with source codes for the machine learning experiment.
+
+3. **[dataset.tar.gz](https://github.com/alexwz/deception-analysis/blob/main/dataset.tar.gz)** - raw study data.
